@@ -1,0 +1,808 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"b\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ta",
+				"target_file"
+			],
+			[
+				"tm",
+				"tmpfile"
+			],
+			[
+				"tar",
+				"target_dir"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"pa",
+				"patient"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"S",
+				"Symptom"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"baa",
+				"background-repeat"
+			],
+			[
+				"A",
+				"ABOUT"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"co",
+				"container-fluid"
+			],
+			[
+				"Servi",
+				"services"
+			],
+			[
+				"im",
+				"img-thumbnail"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"p",
+				"pictures"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"AVER",
+				"AVARAGE"
+			],
+			[
+				"ELSE",
+				"elseif"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"btn-",
+				"btn-danger"
+			],
+			[
+				"E",
+				"edy"
+			],
+			[
+				"M",
+				"macm"
+			],
+			[
+				"MA",
+				"mac"
+			],
+			[
+				"av",
+				"AVARAGE"
+			],
+			[
+				"e",
+				"elseif\telseif …"
+			],
+			[
+				"a",
+				"AVARAGE"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"fun",
+				"func_num_args"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"su",
+				"sub1"
+			],
+			[
+				"fi",
+				"filetarget"
+			],
+			[
+				"tmp",
+				"tempnam"
+			],
+			[
+				"U",
+				"uploaOK"
+			],
+			[
+				"bot",
+				"button\tTag"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"ph",
+				"phone_number"
+			],
+			[
+				"ge",
+				"_GET"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"gly",
+				"glyphicon-ok"
+			],
+			[
+				"el",
+				"elseif\telseif …"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"NUM",
+				"num1"
+			],
+			[
+				"s",
+				"sonnia"
+			],
+			[
+				"bes",
+				"beast"
+			],
+			[
+				"m",
+				"min"
+			],
+			[
+				"c",
+				"com"
+			],
+			[
+				"pas",
+				"password1"
+			],
+			[
+				"de",
+				"denzel"
+			],
+			[
+				"N",
+				"Name"
+			],
+			[
+				"j",
+				"jumbotron"
+			],
+			[
+				"n",
+				"Name"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"TE",
+				"text"
+			],
+			[
+				"mi",
+				"middle_name"
+			],
+			[
+				"PASS",
+				"password"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"br",
+				"bryan"
+			],
+			[
+				"w",
+				"well-lg"
+			],
+			[
+				"G",
+				"Georgie"
+			],
+			[
+				"is",
+				"is"
+			],
+			[
+				"k",
+				"Kuvira"
+			],
+			[
+				"an",
+				"and"
+			],
+			[
+				"FU",
+				"function"
+			],
+			[
+				"funtion",
+				"function"
+			],
+			[
+				"fo",
+				"for\tfor …"
+			],
+			[
+				"den",
+				"Denzel"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"array",
+				"array\t$… = array (…)"
+			],
+			[
+				"ass",
+				"associtave"
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"vikt",
+				"viktabryan"
+			],
+			[
+				"ee",
+				"ee"
+			],
+			[
+				"bo",
+				"Bootstrap"
+			],
+			[
+				"we",
+				"weight1"
+			],
+			[
+				"numbe",
+				"number1"
+			],
+			[
+				"over",
+				"overweight"
+			],
+			[
+				"sqr",
+				"sqrBMI"
+			],
+			[
+				"SQR",
+				"sqrBMI"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"y",
+				"young"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"strr",
+				"strrev"
+			],
+			[
+				"string",
+				"is_string"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bg",
+				"background-image"
+			],
+			[
+				"te",
+				"text-align-last"
+			],
+			[
+				"si",
+				"Signup"
+			],
+			[
+				"ca",
+				"carousel-caption"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"scr",
+				"src"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"B",
+				"border\tAttr"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-decoration-color"
+			],
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"hre",
+				"href\tAttr"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"W",
+				"width"
+			],
+			[
+				"BACKGR",
+				"background-color"
+			],
+			[
+				"l",
+				"Linda"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"ma",
+				"meta\tTag"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ex",
+				"experience"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"bc",
+				"background-clip"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/lampp/htdocs/kamu/array.php",
+		"/opt/lampp/htdocs/revision.php",
+		"/opt/lampp/htdocs/symptoms.php",
+		"/opt/lampp/htdocs/kamu/symptoms.php",
+		"/opt/lampp/htdocs/kamu/file.php",
+		"/opt/lampp/htdocs/hosi/untitled.php",
+		"/opt/lampp/htdocs/D&Phospital/css/bootstrap.css",
+		"/opt/lampp/htdocs/kamu/revision2.php",
+		"/opt/lampp/htdocs/vikta/signup.php",
+		"/opt/lampp/htdocs/vikta/dee.txt",
+		"/opt/lampp/htdocs/DZ/Baadday.php",
+		"/opt/lampp/htdocs/DZ/purityy.php",
+		"/opt/lampp/htdocs/DZ/uploads.php",
+		"/opt/lampp/htdocs/DZ/fileee.php",
+		"/opt/lampp/htdocs/DZ/signup.php",
+		"/opt/lampp/htdocs/DZ/life.php",
+		"/home/emobilis/sublime_text_3/sublime_text",
+		"/opt/lampp/htdocs/DZ/biii.php",
+		"/opt/lampp/htdocs/DZ/revision.php",
+		"/opt/lampp/htdocs/kamu/edy.txt",
+		"/opt/lampp/htdocs/DZ/Forms.php",
+		"/opt/lampp/htdocs/kamu/caleb.php",
+		"/opt/lampp/htdocs/kamu/ruby,php",
+		"/opt/lampp/htdocs/kamu/table.php",
+		"/opt/lampp/htdocs/kamu/asino.php",
+		"/opt/lampp/htdocs/vikta/function.php",
+		"/opt/lampp/htdocs/DZ/func.php",
+		"/home/emobilis/Documents/project(c)/company.html",
+		"/home/emobilis/Documents/all calebs(c)/cool5.html",
+		"/opt/lampp/htdocs/kamu/baadnws.php",
+		"/opt/lampp/htdocs/bryan/prac.php",
+		"/opt/lampp/htdocs/bryan/datatype.php",
+		"/opt/lampp/htdocs/bryan/controls.php",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap mm/bootstrap-4.0.0-dist/index11.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap mm/bootstrap-4.0.0-dist/fridaybootrepeat.html",
+		"/opt/lampp/htdocs/DZ/merit.php",
+		"/opt/lampp/htdocs/kamu/cale.php",
+		"/home/emobilis/Documents/project(c)/apply.html",
+		"/opt/lampp/htdocs/Denzel and Purity/diz.php",
+		"/home/emobilis/Documents/project(c)/boot.html",
+		"/home/emobilis/Documents/project(c)/applyboot.html",
+		"/home/emobilis/Documents/project(c)/aboutus.html",
+		"/home/emobilis/Documents/project(c)/index.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap mm/bootstrap-4.0.0-dist/mahitajihome.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap mm/bootstrap-4.0.0-dist/Contact_Us.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap mm/bootstrap-4.0.0-dist/project.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/mahitajihome.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/Contact_Us.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/project.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/About-Us.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/About Us",
+		"/home/emobilis/Documents/PROJECT YA NGEDO/ngedo.html",
+		"/home/emobilis/Documents/project(c)/bootcompany.html",
+		"/home/emobilis/project.html",
+		"/home/emobilis/realoded/untit.html",
+		"/home/emobilis/realoded/untitl.html",
+		"/home/emobilis/Documents/PROJECT YA NGEDO/bootstrap/css/bootstrap.css",
+		"/home/emobilis/Documents/PROJECT YA NGEDO/bootstrap/css/bootstrap.min.css",
+		"/home/emobilis/Documents/PROJECT YA NGEDO/bootstrap/js/jquery.min.js",
+		"/home/emobilis/Documents/PROJECT YA NGEDO/bootstrap/js/bootstrap.min.js",
+		"/media/emobilis/ADDI/untitled.html",
+		"/media/emobilis/TRANSCEND/Bootstrap Class/BT.html",
+		"/media/emobilis/TRANSCEND/Bootstrap Class/boot.html",
+		"/media/emobilis/TRANSCEND/start/caleb.html",
+		"/home/emobilis/bryan nyaberi/tables.html",
+		"/media/emobilis/TRANSCEND/cale",
+		"/home/emobilis/boostrap/index.html",
+		"/home/emobilis/viktangedo/bootstrap.css",
+		"/home/emobilis/viktangedo/inex.html",
+		"/home/emobilis/bryan nyaberi/bootstrap.html",
+		"/home/emobilis/index.html",
+		"/home/emobilis/boostrap/css/bootstrap-reboot.css",
+		"/home/emobilis/boostrap/css/bootstrap-grid.min.css",
+		"/home/emobilis/navigation bootstrap/bootstrap/index.html",
+		"/home/emobilis/bootstrap/bootstrap.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/css/bootstrap-3.3.7-dist/css/index11.html",
+		"/home/emobilis/booty/css/bootstrap-grid.css",
+		"/home/emobilis/lali/bootstrap.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/css/bootstrap.css",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/css/bootstrap2.css",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/css/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/css/bootstrap-grid.css",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/index11.html",
+		"/home/emobilis/Documents/Denzel and Purity-bootstrap/bootstrap-4.0.0-dist/css/bootstrap-3.3.7-dist.zip",
+		"/home/emobilis/Documents/den and purry/pictures/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css",
+		"/home/emobilis/Documents/den and purry/bootstrap.css",
+		"/home/emobilis/Documents/den and purry/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css",
+		"/media/emobilis/index.html",
+		"/home/emobilis/Desktop/HTMLboot/bootstrap.css",
+		"/home/emobilis/Desktop/HTMLboot/bootstrap.html",
+		"/media/emobilis/TRANSCEND/index.html",
+		"/home/emobilis/Documents/den and purry/CAT.html",
+		"/home/emobilis/Documents/den and purry/CAT.css",
+		"/media/emobilis/TRANSCEND/cale mwesh/end.html",
+		"/home/emobilis/Documents/den and purry/cat.html",
+		"/home/emobilis/Documents/CAT: Caleb, Norbert/CAT.css",
+		"/media/emobilis/TRANSCEND/Sublime Text Build 3143 Setup.exe",
+		"/home/emobilis/Documents/den and purry/practise4.html",
+		"/home/emobilis/Documents/den and purry/forms.html",
+		"/home/emobilis/Documents/den and purry/Practice2.html",
+		"/home/emobilis/Documents/den and purry/start/Friday things.html",
+		"/home/emobilis/Documents/den and purry/start/Friday things",
+		"/home/emobilis/Documents/den and purry/start/end.css",
+		"/home/emobilis/Documents/den and purry/pictures/shisha.jpg",
+		"/home/emobilis/Documents/den and purry/pictures/happy_man.jpg",
+		"/home/emobilis/Documents/den and purry/jason derulo",
+		"/home/emobilis/Documents/den and purry/pictures/IMG-20180116-WA0000.jpg",
+		"/home/emobilis/Documents/den and purry/pictures/IMG-20180116-WA0001.jpg",
+		"/home/emobilis/Documents/den and purry/pictures/IMG-20180117-WA0001.jpg",
+		"/home/emobilis/Documents/den and purry/pictures/IMG-20180117-WA0002.jpg",
+		"/home/emobilis/Documents/den and purry/pictures/IMG-20180117-WA0003.jpg",
+		"/home/emobilis/Documents/den and purry/end.html",
+		"/home/emobilis/Documents/den and purry/tables.html",
+		"/home/emobilis/Documents/den and purry/syama.html",
+		"/home/emobilis/Documents/den and purry/start/index.html",
+		"/media/emobilis/TRANSCEND/start/cale mwesh/end.html",
+		"/home/emobilis/Documents/cale mwesh/end.css",
+		"/home/emobilis/Documents/cale mwesh/style.css/style.css",
+		"/media/emobilis/TRANSCEND/start/blog.html   (caleb)",
+		"/home/emobilis/lali/start/23722461_1340429312750643_6404514091191348203_n.png",
+		"/home/emobilis/Documents/den and purry/mwesh.html",
+		"/home/emobilis/lali/forms.html",
+		"/home/emobilis/lali/kamu.html",
+		"/home/emobilis/Documents/den and purry/caleb.html",
+		"/home/emobilis/lali/untitled.css",
+		"/home/emobilis/lali/start/index.html",
+		"/home/emobilis/Documents/den and purry/pictures/videoplayback.mp4",
+		"/home/emobilis/Documents/den and purry/pictures/.part"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hospital.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"bootstrap/js/jquery.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 479.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

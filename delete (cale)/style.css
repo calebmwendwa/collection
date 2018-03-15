@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(132deg, #27364f, #112) 0% 0% / 400% 400%;
+    animation: BackgroundGradient 15s ease infinite;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+@keyframes BackgroundGradient{
+0% {
+    background-position: 0% 50%;
+}
+50% {
+    background-position: 100% 50%;
+}
+100% {
+    background-position: 0% 50%;
+}
+}
+form{
+	color: white;
+text-align: center;
+padding: 100px 100px 100px 100px;
+}
